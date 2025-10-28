@@ -2,5 +2,5 @@
 
 { 
      "netid": "gp75",
-  "backend": "https://ricebookapp.herokuapp.com"
+  "backend": "https://git.heroku.com/gianna-book-app.git"
 }
